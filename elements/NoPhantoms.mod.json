@@ -1,0 +1,9 @@
+{
+  "_fv": 24,
+  "_type": "function",
+  "definition": {
+    "code": "execute as @a run gamerule doInsomnia false",
+    "name": "no_phantoms",
+    "namespace": "mod"
+  }
+}
