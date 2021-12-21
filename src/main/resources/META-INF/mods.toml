@@ -1,14 +1,17 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="nomorephantoms"
 version="1.0.0"
 displayName="NoMorePhantoms"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Thank's for downloading this mod!"
 displayURL="https://mcreator.net"
-authors="gggam, MCreator"
+authors="GamingBurber"
+description='''
+Turns off Phantom Spawning.
+'''
 
 [[dependencies.nomorephantoms]]
     modId="minecraft"
